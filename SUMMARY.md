@@ -1,3 +1,3 @@
-## Основная <a id="general"></a>
+## Основная <a id="main"></a>
 
-* [Главная](README.md)
+* [Главная](general.md)
